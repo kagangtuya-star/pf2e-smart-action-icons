@@ -1,0 +1,23 @@
+{
+  "pf2e-smart-action-icons": {
+    "SETTINGS": {
+      "REPLACE_NPC_ICONS": {
+        "NAME": "Replace NPC Item Icons",
+        "HINT": "Enable icon replacement for items owned by NPC actors."
+      },
+      "REPLACE_ITEM_ICONS": {
+        "NAME": "Replace Item Icons",
+        "HINT": "Enable icon replacement for world items and non-NPC owned items."
+      }
+    },
+    "NOTIFY": {
+      "NOT_PF2E": "PF2E Smart Action Icons only runs in the PF2E system and is now inactive."
+    },
+    "LOG": {
+      "READY": "Background hooks are active.",
+      "NOT_PF2E": "Current system is {systemId}, module is inactive.",
+      "SHEET_UPDATED": "Sheet-open update: {itemName} -> {image}",
+      "PREUPDATE_MATCHED": "Data update matched: {itemName} -> {image}"
+    }
+  }
+}

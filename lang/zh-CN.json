@@ -1,0 +1,23 @@
+{
+  "pf2e-smart-action-icons": {
+    "SETTINGS": {
+      "REPLACE_NPC_ICONS": {
+        "NAME": "替换 NPC 物品图标",
+        "HINT": "启用后，会为 NPC 持有的物品执行图标替换。"
+      },
+      "REPLACE_ITEM_ICONS": {
+        "NAME": "替换物品图标",
+        "HINT": "启用后，会为世界物品和非 NPC 持有物品执行图标替换。"
+      }
+    },
+    "NOTIFY": {
+      "NOT_PF2E": "PF2E 智能动作图标仅在 PF2E 系统运行，当前已停用。"
+    },
+    "LOG": {
+      "READY": "后台 Hook 已启用。",
+      "NOT_PF2E": "当前系统为 {systemId}，模块已停用。",
+      "SHEET_UPDATED": "打开物品页时已更新：{itemName} -> {image}",
+      "PREUPDATE_MATCHED": "数据更新已匹配：{itemName} -> {image}"
+    }
+  }
+}

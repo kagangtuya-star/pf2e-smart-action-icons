@@ -1,0 +1,44 @@
+{
+  "id": "pf2e-smart-action-icons",
+  "title": "PF2E Smart Action Icons",
+  "description": "Automatically corrects PF2E action/feat icon images for managed items.",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "ai-studio"
+    }
+  ],
+  "scripts": [
+    "pf2e-smart-action-icons.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "cn",
+      "name": "简体中文",
+      "path": "lang/zh-CN.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "6.0.0"
+        }
+      }
+    ]
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
+}
