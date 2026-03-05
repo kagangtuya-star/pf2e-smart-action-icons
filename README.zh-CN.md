@@ -1,4 +1,6 @@
 # PF2E Smart Action Icons
+![PixPin_2026-03-06_00-23-32](https://github.com/user-attachments/assets/bead80fa-712e-4d3b-8d12-2d9e1e5038b1)
+
 
 [English README](./README.md)
 
