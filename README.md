@@ -1,5 +1,5 @@
 # PF2E Smart Action Icons
-
+![PixPin_2026-03-06_00-23-32](https://github.com/user-attachments/assets/8d43988c-2b1e-4486-8b86-f3092bb22a5e)
 [简体中文说明](./README.zh-CN.md)
 
 Foundry VTT v13 module for Pathfinder 2e.Auto-corrects PF2E action/feat item icons based on action type.
