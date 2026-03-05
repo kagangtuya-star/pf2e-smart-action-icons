@@ -60,6 +60,7 @@ on:
   # alter other parts of this workflow.
   release:
     types: [published]
+  workflow_dispatch: 
 
 
 jobs:
